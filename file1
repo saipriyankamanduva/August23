@@ -2,3 +2,11 @@ for i in 'cat 123'
 do
 operations
 done
+
+
+
+
+for i in 'cat 123'
+do
+opertauons
+done
