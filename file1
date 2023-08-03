@@ -10,3 +10,9 @@ for i in 'cat 123'
 do
 opertauons
 done
+
+
+for i in 'cat 123'
+do
+operations
+done
